@@ -1,0 +1,18 @@
+{
+  "description": "Personal domain for Dismas Ndadila",
+  "repo": "https://github.com/DismasNdadila",
+  "owner": {
+    "username": "DismasNdadila",
+    "email": "dismas@changisha.co.tz",
+    "twitter": "DismasNdadila"
+  },
+  "record": {
+    "NS": [
+      "dns1.netpoa.com",
+      "dns2.netpoa.com"
+    ],
+    "A": [
+      "5.78.86.95"
+    ]
+  }
+}
